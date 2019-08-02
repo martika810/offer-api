@@ -10,4 +10,4 @@ has expired users may cancel it.
 
 ## How to launch the api
 
-    {code} mvn spring-boot:run {code}
+    mvn spring-boot:run
